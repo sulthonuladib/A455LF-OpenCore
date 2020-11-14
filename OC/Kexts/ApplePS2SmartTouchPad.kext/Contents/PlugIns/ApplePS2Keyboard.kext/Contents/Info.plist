@@ -20,6 +20,10 @@
 	<string>4.6.8</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>4.6.8</string>
 	<key>DTCompiler</key>
@@ -146,7 +150,7 @@
 			<key>IOProviderClass</key>
 			<string>ApplePS2KeyboardDevice</string>
 			<key>Keyboard type (ID)</key>
-			<integer>0</integer>
+			<integer>27</integer>
 			<key>Preferences</key>
 			<dict>
 				<key>Disable Num Lock LED</key>
