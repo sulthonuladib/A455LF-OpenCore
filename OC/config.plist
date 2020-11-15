@@ -2346,7 +2346,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02742902QXGDVVA8</string>
+			<string>ReplaceWithYourGeneratedSMBIOS</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -2360,9 +2360,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro12,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VKFZYH1DP</string>
+			<string>ReplaceWithYourGeneratedSMBIOS</string>
 			<key>SystemUUID</key>
-			<string>05A9769E-C9CD-408F-AD55-347CB91C558C</string>
+			<string>ReplaceWithYourGeneratedSMBIOS</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
